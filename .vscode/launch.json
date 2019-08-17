@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "mainClass": "org.geek.marathon.Application",
+            "projectName": "geek-marathon-skeleton",
+            "console": "integratedTerminal"
+        }
+    ]
+}
